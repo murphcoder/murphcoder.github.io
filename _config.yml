@@ -1,11 +1,11 @@
 # Site settings
 author: Sean Murphy
-title: 
+title: Sean Murphy's Coding Blog
 header-img: img/home-bg.png
 email: filmmakersean@fastmail.net
 copyright_name: Sean Murphy
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A technical blog of a new coder
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  murphcoder
