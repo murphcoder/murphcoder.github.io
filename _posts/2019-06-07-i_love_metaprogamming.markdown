@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "I Love Metaprogamming"
-date:       2019-06-07 19:12:00 +0000
+title:      "I Love Metaprogramming"
+date:       2019-06-07 15:12:01 -0400
 permalink:  i_love_metaprogamming
 ---
 
